@@ -1,0 +1,26 @@
+{
+  "name": "configitlikeyoumeanit",
+  "version": "1.0.0",
+  "description": "for keeping configuration separated from code",
+  "main": "config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^5.8.0"
+  },
+  "scripts": {
+    "test": "node config.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joaocferreira/config_it_like_you_mean_it.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "f16123@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaocferreira/config_it_like_you_mean_it/issues"
+  },
+  "homepage": "https://github.com/joaocferreira/config_it_like_you_mean_it#readme"
+}
